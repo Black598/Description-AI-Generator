@@ -69,7 +69,7 @@ export function App() {
           <Separator/>
 
           <form className="space-y-6">
-          <div className="space-y-2">
+            <div className="space-y-2">
               <Label>Prompt</Label>
 
               <Select >
