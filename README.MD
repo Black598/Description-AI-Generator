@@ -32,7 +32,8 @@ prontinho 😁 o site estará funcionando. e rodando perfeitamente.
 Projeto Finalizado (mas sempre podemos melhorar :D)
 
 ## 📸Imagens do Projeto 📸
-<p><img src="./src/img/screenshot1.png"></p>
+<p><img src="./src/img/pic1.png"></p>
+<p><img src="./src/img/pic2.png"></p>
 
 <h1 align="center">Informações do Dev 😁💻</h1>
 
