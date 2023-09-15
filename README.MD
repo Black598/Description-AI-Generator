@@ -24,7 +24,8 @@ Para realizar esse projeto foi utilizado as seguintes tecnologias:
 ## 👀 Lembretes 👀
 O projeto funciona em `LocalHost`. 
 
-Lembre-se de checar se o pacote `node` está instalado em seu computador: 
+⚠ Lembre-se de checar se o pacote `node` está instalado em seu computador. ⚠
+<br>
 Abra o `CMD` na pasta do projeto ('\NLW - AI PROJECT\upload-ai-api') e digite o seguinte comando 'npm run dev', em seguida abra a pasta '\NLW - AI PROJECT'  e digite 'npm run dev' após carregar pressione a tecla "O" para abrir no navegador.
 prontinho 😁 o site estará funcionando. e rodando perfeitamente.
 
